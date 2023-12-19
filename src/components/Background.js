@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import News2 from "./News2";
 
 const VideoBackground = () => {
